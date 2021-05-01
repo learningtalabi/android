@@ -46,7 +46,7 @@
   <project path="external/zlib" name="crdroidandroid/android_external_zlib" remote="crdroid" />
 
   <project path="frameworks/av" name="crdroidandroid/android_frameworks_av" remote="crdroid" />
-  <project path="frameworks/base" name="learningtalabi/Orchidrom_frameworks_base" remote="Orchidosrom" />
+  <project path="frameworks/base" name="Orchidrom_frameworks_base" remote="Orchidosrom" />
   <project path="frameworks/native" name="crdroidandroid/android_frameworks_native" remote="crdroid" />
   <project path="frameworks/opt/net/ims" name="crdroidandroid/android_frameworks_opt_net_ims" remote="crdroid" />
   <project path="frameworks/opt/net/wifi" name="crdroidandroid/android_frameworks_opt_net_wifi" remote="crdroid" />
@@ -74,7 +74,7 @@
   <project path="packages/apps/Messaging" name="crdroidandroid/android_packages_apps_Messaging" remote="crdroid" />
   <project path="packages/apps/OmniStyle" name="crdroidandroid/android_packages_apps_OmniStyle" remote="crdroid" />
   <project path="packages/apps/PermissionController" name="crdroidandroid/android_packages_apps_PackageInstaller" remote="crdroid" />
-  <project path="packages/apps/Settings" name="learningtalabi/Orchidrom_packages_apps_Settings" remote="Orchidosrom" />
+  <project path="packages/apps/Settings" name="Orchidrom_packages_apps_Settings" remote="Orchidosrom" />
   <project path="packages/apps/SettingsIntelligence" name="crdroidandroid/android_packages_apps_SettingsIntelligence" remote="crdroid" />
   <project path="packages/apps/ThemePicker" name="crdroidandroid/android_packages_apps_ThemePicker" remote="crdroid" />
   <project path="packages/apps/Updater" name="crdroidandroid/android_packages_apps_Updater" remote="crdroid" />
@@ -111,9 +111,9 @@
   <project path="vendor/qcom/opensource/commonsys/system/bt" name="crdroidandroid/android_vendor_qcom_opensource_system_bt" remote="crdroid" />
   <project path="vendor/qcom/opensource/data-ipa-cfg-mgr" name="crdroidandroid/android_vendor_qcom_opensource_data-ipa-cfg-mgr" remote="crdroid" />
   <project path="vendor/crDroidOTA" name="crdroidandroid/android_vendor_crDroidOTA" remote="crdroid" />
-  <project path="vendor/lineage" name="Learningtalabi/Orchidrom_vendor_lineage" remote="Orchidosrom" />
-  <project path="vendor/aeonax/ANXCamera" name="learningtalabi/Orchidrom_vendor_aeonax_ANXCamera" remote="Orchidosrom" />
-  <project path="vendor/prebuilts" name="learningtalabi/Orchidrom_vendor_prebuilts " remote="Orchidosrom" />
-  <project path="vendor/gapps" name="learningtalabi/Orchidrom_vendor_gapps" remote="Orchidosrom" />
+  <project path="vendor/lineage" name="Orchidrom_vendor_lineage" remote="Orchidosrom" />
+  <project path="vendor/aeonax/ANXCamera" name="Orchidrom_vendor_aeonax_ANXCamera" remote="Orchidosrom" />
+  <project path="vendor/prebuilts" name="Orchidrom_vendor_prebuilts " remote="Orchidosrom" />
+  <project path="vendor/gapps" name="Orchidrom_vendor_gapps" remote="Orchidosrom" />
   
 </manifest>
